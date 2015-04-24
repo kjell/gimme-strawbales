@@ -1,0 +1,15 @@
+{
+  "name": "gimme-strawbales",
+  "version": "1.5.3",
+  "description": "",
+  "main": "nearby.js",
+  "dependencies": {
+    "turf": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

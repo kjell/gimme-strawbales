@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.163429,
+          43.634888
+        ]
+      },
+      "properties": {
+        "name": "POPS- Penny's Organic Produce Stand",
+        "address": "N1372 Hunder Coulee Road, Stoddard, Wisconsin-54658",
+        "price": "5.00",
+        "url": "http://strawbalemarket.com/ads/pops-pennys-organic-produce-stand/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.257416,
+          43.962997
+        ]
+      },
+      "properties": {
+        "name": "Rudy's Feed and Seed",
+        "address": "408 Main Street, Holmen, Wisconsin-54636",
+        "price": "5.75",
+        "url": "http://strawbalemarket.com/ads/rudys-feed-and-seed/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.438637,
+          44.808762
+        ]
+      },
+      "properties": {
+        "name": "Small straw and hay bales",
+        "address": "Eau Claire, Wisconsin-54720",
+        "price": "4",
+        "url": "http://strawbalemarket.com/ads/small-straw-and-hay-bales/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7761,
+          45.731544
+        ]
+      },
+      "properties": {
+        "name": "Perlick Farms, LLC.",
+        "address": "W5014 County Highway B, Sarona, Wisconsin-54870",
+        "price": "4.50",
+        "url": "http://strawbalemarket.com/ads/perlick-farms-llc/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26609,
+          45.880787
+        ]
+      },
+      "properties": {
+        "name": "Zimmer Feed - Mora MN",
+        "address": "2020 Mahogany Street, Mora, Minnesota-55051",
+        "price": "5",
+        "url": "http://strawbalemarket.com/ads/straw-bales-in-mora-mn/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.04747,
+          44.963852
+        ]
+      },
+      "properties": {
+        "name": "Straw bales $3.00 each for sale, Winsted,  MN",
+        "address": "Winsted, Minnesota-55395",
+        "price": "3.00",
+        "url": "http://strawbalemarket.com/ads/straw-bales-2-25-each-for-sale/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.874794,
+          45.171783
+        ]
+      },
+      "properties": {
+        "name": "Straw Bales Available/Delivery",
+        "address": "Buffalo, Minnesota-55313",
+        "price": "6.00",
+        "url": "http://strawbalemarket.com/ads/straw-bales-availabledelivery/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.193687,
+          45.571178
+        ]
+      },
+      "properties": {
+        "name": "Certified Organic Straw Bales",
+        "address": "St. Cloud, Minnesota-56303",
+        "price": "9.50",
+        "url": "http://strawbalemarket.com/ads/certified-organic-straw-bales/"
+      }
+    }
+  ]
+}
